@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres Guerrero</h1>
 <h3 align="center">Passionate engineer and data science aspirant</h3>
 
-- ⛈️ Currently working in **insurance**
+- ⛈️ Currently working in an **ecommerce company**
 
 - 🌱 I’m learning **to create DNNs using Tensorflow for age recognition**
 
